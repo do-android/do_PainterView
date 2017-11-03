@@ -1,0 +1,9 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_PainterView/do_PainterView.zip
+/doExt_do_PainterView/libs/docore.jar
